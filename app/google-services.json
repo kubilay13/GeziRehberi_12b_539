@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352400099876",
+    "project_id": "gezirehberi-30576",
+    "storage_bucket": "gezirehberi-30576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352400099876:android:88bdde0bb10a4b176026b1",
+        "android_client_info": {
+          "package_name": "com.example.gezirehberi_12b_539"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdAsJB6HjfPFw7z5jraYARQnTSJtfEAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
