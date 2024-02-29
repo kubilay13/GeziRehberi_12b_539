@@ -13,6 +13,36 @@
         android:theme="@style/Theme.GeziRehberi_12b_539"
         tools:targetApi="31">
         <activity
+            android:name=".FragmentEndBilgi"
+            android:exported="false" />
+        <activity
+            android:name=".FragmentTrBilgi"
+            android:exported="false" />
+        <activity
+            android:name=".FragmentFotoKayit"
+            android:exported="false" />
+        <activity
+            android:name=".GeziRehberim"
+            android:exported="false" />
+        <activity
+            android:name=".GeziRehberi"
+            android:exported="false" />
+        <activity
+            android:name=".activity_GeziRehberi"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_GeziRehberi"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Logo"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Kayit"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
