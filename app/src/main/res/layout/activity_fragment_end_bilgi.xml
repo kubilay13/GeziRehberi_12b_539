@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <EditText
-            android:id="@+id/editTextText"
+            android:id="@+id/editText_NameInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -30,7 +30,7 @@
             android:text="Enter It's Name" />
 
         <EditText
-            android:id="@+id/editTextText6"
+            android:id="@+id/editText_CountryInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -40,7 +40,7 @@
             android:text="Enter It's Country" />
 
         <EditText
-            android:id="@+id/editTextText7"
+            android:id="@+id/editText_CityInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -50,7 +50,7 @@
             android:text="Enter It's City" />
 
         <EditText
-            android:id="@+id/editTextText8"
+            android:id="@+id/editText_HistoryInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -60,7 +60,7 @@
             android:text="Enter It's History" />
 
         <EditText
-            android:id="@+id/editTextText9"
+            android:id="@+id/editText_AboutInput"
             android:layout_width="match_parent"
             android:layout_height="191dp"
             android:ems="10"

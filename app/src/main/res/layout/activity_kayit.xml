@@ -22,19 +22,19 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/button_Geri"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="40dp"
                 android:layout_weight="1"
-                android:text="Button" />
+                android:text="Geri" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/button_İleri"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Button" />
+                android:text="İleri" />
         </LinearLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
